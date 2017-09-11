@@ -15,7 +15,7 @@
 // limitations under the License.
 
 /*
-Package validator implements value validations based on struct tags.
+Package validator implements value validations HACKED based on struct tags.
 
 In code it is often necessary to validate that a given value is valid before
 using it for something. A typical example might be something like this.
